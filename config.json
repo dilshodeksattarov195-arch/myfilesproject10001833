@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtersave",
+        "uuid": 4505514,
+        "checksum": "42y5ko"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
